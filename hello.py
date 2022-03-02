@@ -3,3 +3,4 @@
 print("Hello") # kiírja hogy hello world
 print("Hello")
 print("Hello")
+print("hello git")
